@@ -1,4 +1,5 @@
 package org.sbjavateam.collection;
 
-public interface UnmodifiableCollection {
+public interface UnmodifiableCollection<E> {
+
 }
